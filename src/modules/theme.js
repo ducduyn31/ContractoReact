@@ -1,6 +1,6 @@
 export const headerHeight = 70;
 
-export const appColor = '#00b4d5';
+export const appColor = '#edc7b7';
 
 export const easing = 'cubic-bezier(0.35, 0.01, 0.77, 0.34);';
 
@@ -15,6 +15,10 @@ export default {
   },
   palette: {
     primary: appColor,
+    foreground: '#fff',
+    background: '#f8f8f8',
+    primary_dark: '#a58b80',
+    primary_light: '#f0d2c5',
   },
   button: {
     borderRadius: {

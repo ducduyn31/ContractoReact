@@ -18,6 +18,9 @@
     "ES6"
   ],
   "dependencies": {
+    "@material-ui/core": "^4.8.2",
+    "@material-ui/icons": "^4.5.1",
+    "@material-ui/styles": "^4.8.2",
     "classlist-polyfill": "^1.2.0",
     "events-polyfill": "^2.1.2",
     "history": "^4.10.1",
